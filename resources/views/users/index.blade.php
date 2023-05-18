@@ -53,7 +53,7 @@
 
             <td>{{ $i++}}</td>
 
-            <td>{{ $user->nama }}</td>
+            <td>{{ $user->name }}</td>
 <!-- 
             <td>
 

@@ -50,7 +50,7 @@
 
                 <strong class="mb-1">Name:</strong>
 
-                <input type="text" name="nama" class="form-control" placeholder="Name">
+                <input type="text" name="name" class="form-control" placeholder="Name">
 
             </div>
 
